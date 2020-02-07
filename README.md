@@ -1,4 +1,4 @@
-# chann3lz (the base source code to website c3z.me and RockMeAmade.us) 
+# chann3lz (the base source code to youtube mashups chann3lz.com and RockMeAmade.us) 
 MTV First Year Resurrected Music Videos 24/7 No Ads
 
 
